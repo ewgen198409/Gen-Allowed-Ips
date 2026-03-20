@@ -1,0 +1,16 @@
+# Generated files
+allowed_ips.txt
+allowed_ips_wg.txt
+allowed_ips_failed.txt
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
