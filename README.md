@@ -21,6 +21,7 @@
 ### Требования
 
 - Linux/macOS
+- OpenWRT
 - `curl`, `nslookup`, `awk`, `grep`, `sed`
 - Доступ к интернету
 
